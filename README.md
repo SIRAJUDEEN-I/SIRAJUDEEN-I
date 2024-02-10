@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SIRAJUDEEN-I
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c and c++
+- 🌱 I’m currently learning Java and web development
 - 📫 How to reach me sirajudeen4300@gmail.com
 
 <!---
