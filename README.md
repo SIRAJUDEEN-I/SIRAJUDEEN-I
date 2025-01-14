@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SIRAJUDEEN-I
-- 👀 I’m interested in coding
-- 🌱 I’m continuously learning Java , Python , and web development
+
 - 📫 How to reach me sirajudeen4300@gmail.com
 
 <!---
